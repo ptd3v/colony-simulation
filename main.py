@@ -4,4 +4,4 @@ class Ant:
         stamina = 0
 
 def Ant_m:
-    
+    null
